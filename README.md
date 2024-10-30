@@ -11,7 +11,7 @@ The data used in this project are obtained in [1] and [2].
 
 # Citation:
 
-W. Zhang, R. Ahmed, S. Habibi, State-of-health estimation for lithium-ion batteries based on electrochemical impedance spectroscopy measurements combined with unscented Kalman filter, Journal of Power Sources, 2024 (Accepted).
+W. Zhang, R. Ahmed, and S. Habibi, “State-of-health estimation for lithium-ion batteries based on electrochemical impedance spectroscopy measurements combined with unscented Kalman filter,” Journal of Power Sources, vol. 625, p. 235450, Jan. 2025, doi: 10.1016/j.jpowsour.2024.235450.
 
 For more information, please contact Wenlin Zhang at zhanw9@mcmaster.ca. 
 
